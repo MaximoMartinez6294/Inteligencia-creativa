@@ -1096,5 +1096,13 @@ font-size: 55px;
       text-decoration: none;
       transition: background 0.2s;
 }
+.wrapper-f .footer-widget h6 {
+      color: #fff;
+      letter-spacing: 3px;
+      font-family: 'TeleR';
+      margin: 68px 186px 25px 20px;
+      font-size: 20px;
+      font-weight: 600;
+}
 
 }
