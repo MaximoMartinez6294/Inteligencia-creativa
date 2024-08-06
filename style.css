@@ -966,6 +966,59 @@ textarea:focus {
       color: #1D1D1F;
 }
 
+/*contacto*/
+.contacto-texto {
+      color: #1d1d1d;
+      font-family: "TeleUB";
+      -webkit-animation-name: fadeInUp;
+      animation-name: fadeInUp;
+}
+
+#contact-form input,
+#contact-form textarea {
+      width: 100%;
+      padding: 5px;
+      border: none;
+      resize: vertical;
+      background: transparent;
+      color: #383d41;
+      font-weight: bolder;
+}
+
+.send{
+      font-family: 'TeleUB';
+      color: #1d1d1d;
+            line-height: normal;
+            text-decoration: none;
+            border-radius: 60px;
+            visibility: visible;
+            animation-name: fadeInUp;
+            border: 1px solid #222222;
+
+}
+
+#contact-form label {
+      display: block;
+      font-weight: 500;
+      font-family: 'TeleR';
+      font-size: .8em;
+      color: #999;
+      padding-left: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+      font-size: 25px;
+      width: 100%;
+      font-family: 'TeleUB';
+      padding: 5px;
+      border: none;
+      resize: vertical;
+      background: transparent;
+      color: #383d41;
+      font-weight: bolder;
+}
+
 @media (max-width: 425px) {
 nav {
             position: fixed;
