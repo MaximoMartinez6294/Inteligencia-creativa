@@ -339,6 +339,9 @@ nav #menu li a:hover {
       font-weight: 800;
       width: 680px;
 }
+a.example::after {
+      display: none;
+}
 
 
 
